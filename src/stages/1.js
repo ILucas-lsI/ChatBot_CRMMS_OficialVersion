@@ -48,7 +48,7 @@ const options = {
   0: () => {
     return {
       message:
-        'Encaminhando você para um atendente. \n⏳ *Aguarde um instante*.\n \n⚠️ A qualquer momento, digite *ENCERRAR* para encerrar o atendimento. ⚠️',
+        'Encaminhando você para um atendente. \n⏳ *Aguarde um instante*.\n \n⚠️ A qualquer momento, digite *ENCERRAR* para encerrar o atendimento. ⚠️'+'\n*Atenção*\nEste contato é apenas um serviço automatizado, o atendente físico irá lhe responder em',link:'https://wa.me/message/VJ67VNNOHHRMP1',
       nextStage: STAGES.FALAR_COM_ATENDENTE,
     }
   },

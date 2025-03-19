@@ -26,10 +26,10 @@ Além disto, é bom ter um editor para trabalhar com o código como [VSCode](htt
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ILucas-lsI/ChatBotCRMMS
+$ git clone https://github.com/ILucas-lsI/ChatBot_CRMMS_OficialVersion
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ChatBotCRMMS
+$ cd ChatBot_CRMMS_OficialVersion
 
 # Instale as dependências
 $ npm install
