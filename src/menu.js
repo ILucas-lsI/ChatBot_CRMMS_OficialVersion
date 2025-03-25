@@ -69,6 +69,7 @@ export const menu = {
     description: 'Financeiro',
     infos: [
       { text: 'Emitir certidão', link:'https://portal.cfm.org.br/servicos-para-medicos/certidao\n'},
+      { text: 'Emitir boleto:\n'+'Para emitir o boleto, acesse o portal de serviços, valide seu usuário e sua senha e em seguida selecione a opção: *"Emitir boleto"*', link:'https://portalservicos.cfm.org.br/portal/MS\n'},
     ],
     contacts: [
       { text: '\nAtendente do setor financeiro', link: 'https://wa.me/message/BZVGO7BKKKB5G1'},

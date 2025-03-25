@@ -1,3 +1,4 @@
+
 import { VenomBot } from '../venom.js'
 import { svs } from '../svs.js'
 import { STAGES } from './index.js'
@@ -13,7 +14,7 @@ export const finalStage = {
       svs[from].stage = STAGES.INICIAL
       return VenomBot.getInstance().sendText({
         to: from,
-        message: '*Atendimento encerrado, obrigado por entrar em contato!*',
+        message: '*Atendimento encerrado pelo usuário e/ou por inatividade, obrigado por entrar em contato!*',
       });
     } else{
       message = 'Por favor aguarde...'

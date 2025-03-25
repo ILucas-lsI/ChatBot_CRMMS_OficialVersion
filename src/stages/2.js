@@ -24,7 +24,7 @@ export const stageTwo = {
           `✅ *${menu[message].description}*, serviço solicitado com sucesso!\n\n` +
             '```Opções disponíveis:``` \n' +
             menu[message].infos.map(info => `${info.text}: ${info.link}`).join('\n') + menu[message].contacts.map(infocont => `${infocont.text}: ${infocont.link}`).join('\n') +
-            '\n-----------------------------------\n # - ```Finalizar atendimento```\n * - ```Retornar ao menu```\n'
+            '\n-----------------------------------\n # - ```Finalizar atendimento```\n * - ```Ver o menu novamente```\n'
         svs[params.from].itens.push(menu[message])
       }
 
@@ -47,7 +47,7 @@ const options = {
   },
   '*': () => {
     const message =
-      '*Você foi redirecionado para solicitação de serviços.*\n\n' +
+      '*Você foi redirecionado para o menu de serviços.*\n\n' +
       'Por favor, escolha um dos serviços disponíveis:\n\n';
 
     let serviceOptions = '';
