@@ -44,7 +44,7 @@ export const menu = {
       { text: 'Emitir certidão de antecedentes éticos', link: 'https://crmvirtual.cfm.org.br/MS/servico/emitir-certidao-de-antecedentes-eticos\n'},
     ],
     contacts: [
-      { text: '\nAtendente do setor processo', link: 'https://wa.me/message/VJ67VNNOHHRMP1\n'},
+      { text: '\nAtendente do setor processo', link: 'https://wa.me/message/LRKG7VA7F2HMO1?src=qr\n'},
     ],
   },
   4: {
