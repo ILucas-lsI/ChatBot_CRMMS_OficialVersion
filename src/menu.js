@@ -8,7 +8,7 @@ export const menu = {
       { text: 'Inscrição de estabelecimentos de saúde', link: 'https://crmvirtual.cfm.org.br/MS/servico/inscricao-de-estabelecimentos-de-saude\n'},
     ],
     contacts:[
-      { text: '\nAtendente do setor de pessoa jurídica', link: 'https://wa.me/message/76P4GP7M7S6JH1'},
+      { text: '\nAtendente do setor de pessoa jurídica', link: '\nhttps://wa.me/message/76P4GP7M7S6JH1\n\nregistropj@crmms.org.br'},
     ]
   },
   2: {
@@ -34,7 +34,7 @@ export const menu = {
       { text: 'Visto provisório (90 dias corridos)', link: 'https://crmvirtual.cfm.org.br/MS/servico/visto-provisorio-90-dias-corridos\n'},
     ],
     contacts: [
-      { text: '\nAtendente do setor pessoa física', link: 'https://wa.me/message/76P4GP7M7S6JH1'},
+      { text: '\nAtendente do setor pessoa física', link: '\nhttps://wa.me/message/76P4GP7M7S6JH1\n\nregistropf@crmms.org.br'},
     ],
   },
   3: {
@@ -44,7 +44,7 @@ export const menu = {
       { text: 'Emitir certidão de antecedentes éticos', link: 'https://crmvirtual.cfm.org.br/MS/servico/emitir-certidao-de-antecedentes-eticos\n'},
     ],
     contacts: [
-      { text: '\nAtendente do setor processo', link: 'https://wa.me/message/LRKG7VA7F2HMO1?src=qr\n'},
+      { text: '\nAtendente do setor processo', link: '\nhttps://wa.me/message/LRKG7VA7F2HMO1?src=qr\n\nprocesso@crmms.org.br'},
     ],
   },
   4: {
@@ -62,7 +62,7 @@ export const menu = {
       },
     ],
     contacts: [
-      { text: '\nAtendente do setor de sindicância', link: 'https://wa.me/message/VJ67VNNOHHRMP1'},
+      { text: '\nAtendente do setor de sindicância', link: '\nhttps://wa.me/message/VJ67VNNOHHRMP1\n\nsindicancia@crmms.org.br'},
     ],
   },
   5: {
@@ -72,7 +72,7 @@ export const menu = {
       { text: 'Emitir boleto:\n'+'Para emitir o boleto, acesse o portal de serviços, valide seu usuário e sua senha e em seguida selecione a opção: *"Emitir boleto"*', link:'https://portalservicos.cfm.org.br/portal/MS\n'},
     ],
     contacts: [
-      { text: '\nAtendente do setor financeiro', link: 'https://wa.me/message/BZVGO7BKKKB5G1'},
+      { text: '\nAtendente do setor financeiro', link: '\nhttps://wa.me/message/BZVGO7BKKKB5G1\n\nfinanceiro@crmms.org.br'},
     ]
   },
   6: {
@@ -99,7 +99,7 @@ export const menu = {
       { text: 'Normas emanadas do sistema conselhos de medicina', link: 'https://crmvirtual.cfm.org.br/MS/servico/normas-emanadas-do-sistema-conselhos-de-medicina\n'},
     ],
     contacts: [
-      { text: 'Caso queira entrar em contato com o setor os números são: 3320-7700 opção 8', link: ''},
+      { text: '\nPara falar com o setor Jurídico, basta enviar um e-mail para', link: 'juridico@crmms.org.br'},
     ]
   },
   9: {
@@ -108,7 +108,7 @@ export const menu = {
       { text: 'Espaço do fiscalizado', link:'https://fiscalizacao.crmvirtual.cfm.org.br/espaco-fiscalizado/#/\n'},
     ],
     contacts: [
-      { text: '\nAtendente do setor de fiscalização', link: 'https://wa.me/message/XUAM5CPXBVTYL1'},
+      { text: '\nAtendente do setor de fiscalização', link: '\nhttps://wa.me/message/XUAM5CPXBVTYL1\n\nfiscalizacao@crmms.org.br\ncodame@crmms.org.br\n'},
     ]
   },
 }
