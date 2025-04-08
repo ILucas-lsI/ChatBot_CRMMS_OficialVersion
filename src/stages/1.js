@@ -48,7 +48,7 @@ const options = {
   0: () => {
     return {
       message:
-        'Encaminhando você para um atendente. \n⏳ *Aguarde um instante*.\n \n⚠️ A qualquer momento, digite *ENCERRAR* para encerrar o atendimento. ⚠️ \n \n*⚠️ Atenção ⚠️*\n\nEste contato é apenas um serviço automatizado, o atendente físico irá lhe responder em:\n*https://wa.me/qr/SF52TZCXSO5DN1*\n\n*Obrigado por entar em contato.*',
+        'Encaminhando você para um atendente. \n⏳ *Aguarde um instante*.\n \n⚠️ A qualquer momento, digite *ENCERRAR* para encerrar o atendimento. ⚠️ \n \n*⚠️ Atenção ⚠️*\n\nEste contato é apenas um serviço automatizado, o atendente físico irá lhe responder em:\n*https://wa.me/qr/SF52TZCXSO5DN1*\n\n*Obrigado por entrar em contato.*',
       nextStage: STAGES.FALAR_COM_ATENDENTE,
     }
   },
