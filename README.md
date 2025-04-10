@@ -51,22 +51,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 
-Juniorwmr
+- [Juniorwmr](https://github.com/juniorwmr)
 ---
-
-<p>
-  <a href='https://github.com/juniorwmr'>
-  <br />
- </p>
 
 ### Modded
 
-LucasLS
+- [LucasLS](https://github.com/ILucas-lsI)
 ---
-
-<p>
-  <a href='https://github.com/ILucas-lsI'>
-  <br />
-</p>
 
 ### Version 0.1.5
