@@ -1,0 +1,25 @@
+Instruções de instalação do BOT
+
+1 - Instale o Visual Studio code em (https://code.visualstudio.com/)
+
+2 - Instale o GIT (https://git-scm.com/downloads)
+
+3 - Instale o Node.js (https://nodejs.org/pt/download)
+
+4 - Abra o Visual Studio
+
+5 - Atravez do terminal (cmd), escolha um diretório para clonar o repositório ex: cd C:\Users\"seu_usuáio"\Desktop>
+use o comando "git clone + link do repositório"
+
+Repositório:
+(https://github.com/ILucas-lsI/ChatBot_CRMMS_OficialVersion.git)
+
+6 - Dentro do Visual Studio, abra o terminal do mesmo com o git bash e use o comando "npm i" para instalar as dependências.
+
+7 - Altere o diretório para dentro da pasta do BOT e utilize o comando "npm run dev"
+
+8 - Escaneie o QR CODE gerado na conta de WhatsApp que deseja utilizar, pronto o bot está pronto para uso.
+
+
+(LEMBRE-SE DE ALTERAR AS INFORMAÇÕES DO BOT PARA AS QUE DESEJA, CADA CRM POSSUI SEUS PRÓPRIOS LINKS DE CONTATO/EMAIL/TELEFONE).
+
