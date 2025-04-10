@@ -31,6 +31,7 @@ export const stageOne = {
   },
 }
 
+
 const options = {
   1: () => {
     let message = 'Solicitação de serviços.\n\n' + 'Caso deseje *cancelar* digite "#".\n\n' + 'Por favor, digite um número correspondente as opções abaixo:\n'

@@ -22,3 +22,4 @@ export const finalStage = {
     svs[from].finalStage.endsIn = new Date().setSeconds(60) // more 1 minute of inactivity
   },
 }
+
