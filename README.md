@@ -11,6 +11,7 @@
 <br>
 <h1 align="center">
   Welcome
+  <img alt="Mascot" title="Lucas" src="./assets/botmascot.png" />
   <img alt="Start" title="Welcome" src="./assets/start.png" />
   Sectors Menu
   <img alt="Sectors" title="Menu" src="./assets/sectors.png" />
